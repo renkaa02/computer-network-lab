@@ -1,7 +1,7 @@
 ## Experiment 1: Basic Hardware Components & Networking Commands 
 
-** Name:** Renuka Pedhekar
-** PRN:** 24070521259
+**Name:** Renuka Pedhekar
+**PRN:** 24070521259 
 
 
 ## Hardware Components
